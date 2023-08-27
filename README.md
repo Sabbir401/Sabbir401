@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Sabbir401.io)
+[![MasterHead](https://www.saqibmanzoor.com/wp-content/uploads/2020/01/web-development-banner-three.jpg)](https://Sabbir401.io)
+
 <h1 align="center">Hi 👋, I'm Kazi Sabbir Ahmed Opi</h1>
 <h3 align="center">A Passionate Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -13,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/kazi-sabbir-ahmed-opi-a849b726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kazi-sabbir-ahmed-opi-a849b726b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kazisabbir.ahmed.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kazisabbir.ahmed.7/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kazi_sabbir_ahmed4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kazi_sabbir_ahmed4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kazi-sabbir-ahmed-opi-a849b726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kazi-sabbir-ahmed-opi-a849b726b" height="30" width="40" /></a>
+<a href="https://fb.com/kazisabbir.ahmed.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazisabbir.ahmed.7/" height="30" width="40" /></a>
+<a href="https://instagram.com/kazi_sabbir_ahmed4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazi_sabbir_ahmed4/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/n8KvxJEM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/n8KvxJEM" height="30" width="40" /></a>
 </p>
 
